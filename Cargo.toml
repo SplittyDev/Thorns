@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Splitty <splittydev@gmail.com>"]
 
 [dependencies]
+natural = { git = "https://github.com/cjqed/rs-natural" }
